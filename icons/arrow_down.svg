@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMin meet" id="arrow-scroll-down" viewBox="0 0 32 32">
+      <polygon fill="#010002" points="15.98 22.43 7.28 13.73 8.7 12.32 15.98 19.6 23.28 12.3 24.7 13.72 15.98 22.43"></polygon>
+      <path fill="#010002" d="M16,32A16,16,0,1,1,32,16,16,16,0,0,1,16,32ZM16,2A14,14,0,1,0,30,16,14,14,0,0,0,16,2Z"></path>
+    </svg>
